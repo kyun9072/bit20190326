@@ -5,3 +5,6 @@
 
 회의록/일과일지 
 https://drive.google.com/open?id=1AA1Sc2LcDL7Qy2qNf2Spc_2F3cjRNkl_
+
+프로젝트 git 주소
+https://github.com/kyun9072/bmw
